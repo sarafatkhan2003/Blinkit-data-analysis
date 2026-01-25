@@ -8,3 +8,4 @@ Started: January 1, 2026
 [2026-01-15 05:45:36] Standardize Item Fat Content categories (LF, low fat -> Low Fat)
 [2026-01-18 19:12:00] Clean and validate Outlet Location Type values
 [2026-01-22 08:38:24] Outlier detection and treatment in Item Visibility
+[2026-01-25 22:04:48] Remove duplicates from grocery sales data
